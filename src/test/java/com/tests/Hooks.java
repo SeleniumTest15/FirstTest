@@ -1,6 +1,5 @@
 package com.tests;
 
-import java.sql.Driver;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.WebDriver;
